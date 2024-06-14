@@ -1,0 +1,45 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+Y
+)src/main/java/org/vitalii/fedyk/User.java,3/0/30b8bccc256b742abee2726d5fdf74acc0ecc558
+\
+,src/main/java/org/vitalii/fedyk/userDao.java,9/d/9d41ce0a6dc460f030d1608fd364f47f17a6e1ec
+\
+,src/main/java/org/vitalii/fedyk/UserDao.java,b/e/be70b130175063bb17d323285d8f46046527c81e
+f
+6src/main/java/org/vitalii/fedyk/CreateUserServlet.java,5/1/51fa92bcb028ebff1ab595b4671a362786dffcc6
+P
+ src/main/webapp/create-user.html,b/6/b669ef49c03f6bd56d4e0c8671666f57bfce1da4
+d
+4src/main/java/org/vitalii/fedyk/UserListServlet.java,4/0/4032bcf3fa81a3a58f9d0ab9bc722064b4f62a48
+M
+src/main/webapp/user-list.jsp,0/d/0daf4e0b21f21cde950a32ef58ff19bc4fd5074b
+I
+src/main/webapp/index.jsp,8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded
+U
+%src/main/webapp/WEB-INF/user-list.jsp,7/2/72729aaf87936d28e1598f1d73bba3c66f997288
+O
+src/main/webapp/create-user.jsp,f/d/fd5f95843fd998824d3e75bb0f6a18422ff093de
+W
+'src/main/webapp/WEB-INF/create-user.jsp,b/7/b7eadbe535549846dc5f38e8b6ee72491df73c7f
+f
+6src/main/java/org/vitalii/fedyk/UpdateUserServlet.java,b/9/b95a27fdd7e6ec03b228f900f0737ef6efe040fd
+W
+'src/main/webapp/WEB-INF/update-user.jsp,0/e/0edd2fd478eedb0d016db02e655e2e94cb1b5a63
+]
+-src/main/java/org/vitalii/fedyk/ReadUser.java,f/e/fee1dbf721d8975630d09e9cdb5895b30935d8ca
+U
+%src/main/webapp/WEB-INF/read-user.jsp,d/e/de64c1b0aef4be4714c4f86fe78acc8e6599e2ac
+f
+6src/main/java/org/vitalii/fedyk/DeleteUserServlet.java,8/f/8f24109d1f058840b78be19b8d0239098fe8affd
+d
+4src/main/java/org/vitalii/fedyk/ReadUserServlet.java,b/6/b60234a498bfbaf5e3a6281a30d94a20f3ed9490
+S
+#src/main/webapp/WEB-INF/header.html,4/8/48d7d68986b7cda28a58bd971a867f3fb2e59cd3
+`
+0src/main/java/org/vitalii/fedyk/HomeServlet.java,2/9/2954ca0143fc32932efebff557cb250bace538c8
+P
+ src/main/webapp/WEB-INF/home.jsp,1/f/1f6b8c5d7af95cac9484a6214f03231b4cfdc1a7
